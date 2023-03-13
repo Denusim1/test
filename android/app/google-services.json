@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015438458311",
+    "project_id": "vambalkon-7f00c",
+    "storage_bucket": "vambalkon-7f00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015438458311:android:1b5b0c92f9ec2899ddade2",
+        "android_client_info": {
+          "package_name": "com.vambalkon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015438458311-mbdfqh48ouvt03hlodb67lig2n1mc5r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2_otwdofD4OeRfpxqwYFxo_pi7V4m00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015438458311-mbdfqh48ouvt03hlodb67lig2n1mc5r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
